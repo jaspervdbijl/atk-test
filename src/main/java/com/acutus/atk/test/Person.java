@@ -1,8 +1,8 @@
 package com.acutus.atk.test;
 
-import com.acutus.atk.entity.processor.AtkEntity;
+import com.acutus.atk.entity.processor.Atk;
 
-@AtkEntity
+@Atk
 public class Person {
 
     @TestFieldAno("hello")
